@@ -1,5 +1,3 @@
-# OpenVoice
-
 O OpenVoice é uma rede social desenvolvida com o foco em priorizar a segurança dos dados e a privacidade dos usuários. 
 
 Diferente das redes sociais tradicionais, OpenVoice coleta o mínimo de dados pessoais, não utiliza algoritmos para manipular o conteúdo que você vê e não exibe anúncios. 
