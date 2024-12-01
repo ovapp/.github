@@ -10,10 +10,10 @@ A missão desse projeto é oferecer uma plataforma que respeite a liberdade de e
 
 Entre no repositório contendo a documentação completa para explorar os princípios que fundamentam a criação desse projeto.
 
-<ul>
-  <li><a href="https://github.com/ovapp/ovapp-docs">Repositório da Documentação</a></li>
-</ul>
+
+**[Repositório da Documentação](https://github.com/ovapp/ovapp-docs)**
+
 
 ## Licença
 
-Por favor, tenha em mente que todos os códigos estão licenciados sob a licença MIT.
+Por favor, tenha em mente que todos os códigos estão licenciados sob a **[Licença MIT](LICENSE)**.
