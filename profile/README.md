@@ -1,12 +1,19 @@
-## Hi there 👋
+# OpenVoice
 
-<!--
+O OpenVoice é uma rede social desenvolvida com o foco em priorizar a segurança dos dados e a privacidade dos usuários. 
 
-**Here are some ideas to get you started:**
+Diferente das redes sociais tradicionais, OpenVoice coleta o mínimo de dados pessoais, não utiliza algoritmos para manipular o conteúdo que você vê e não exibe anúncios. 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+A missão desse projeto é oferecer uma plataforma que respeite a liberdade de expressão e coloca o controle da privacidade nas mãos dos usuários.
+
+## Documentação
+
+Entre no repositório contendo a documentação completa para explorar os princípios que fundamentam a criação desse projeto.
+
+<ul>
+  <li><a href="https://github.com/ovapp/ovapp-docs">Repositório da Documentação</a></li>
+</ul>
+
+## Licença
+
+Por favor, tenha em mente que todos os códigos estão licenciados sob a licença MIT.
