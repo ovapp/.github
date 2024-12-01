@@ -16,4 +16,4 @@ Entre no repositório contendo a documentação completa para explorar os princ�
 
 ## Licença
 
-Por favor, tenha em mente que todos os códigos estão licenciados sob a **[Licença MIT](LICENSE)**.
+Por favor, tenha em mente que todos os códigos estão licenciados sob a **[Licença MIT](.github/LICENSE)**.
