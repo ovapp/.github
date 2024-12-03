@@ -9,11 +9,11 @@ A missão desse projeto é oferecer uma plataforma que respeite a liberdade de e
 Entre no repositório contendo a documentação completa para explorar os princípios que fundamentam a criação desse projeto.
 
 
-**[Repositório da Documentação](https://github.com/ovapp/ovapp-docs)**
+**[Repositório da Documentação](https://github.com/ovapp/docs)**
 
 ## Versão
 
-Atualmente o OpenVoice está na versão <a href="#versão"><img alt="Static Badge" src="https://img.shields.io/badge/Vers%C3%A3o-1.0.0-c6c6c6"></a>
+Atualmente o OpenVoice está na versão <code>1.0.0</code>
 
 ## Autores
 
